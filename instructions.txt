@@ -1,0 +1,9 @@
+Hello!
+
+You will need PHP to run this code - if you don't know what to do then have a look for XAMPP and Apache Friends.
+
+Look in index.php for instructions (search for //) on how to use this code to compare blocks of Joycean text - assume it could do other author's as well
+
+You can see examples at http://openjoyce.com/crosstrees/
+
+Thanks all
